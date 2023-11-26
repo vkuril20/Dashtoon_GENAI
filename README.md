@@ -1,4 +1,6 @@
 # Image Style Transfer Using Convolutional Neural Networks
+In this assignment, I have designed a neural network architecture inspired by Convolutional Neural Networks (CNN) to learn features that represent an artist's style. The model utilizes convolutional layers to capture both content and style information from input images, drawing from neural style transfer techniques.
+
 A Keras Implementation of [Image Style Transfer Using Convolutional Neural Networks, Gatys et al.](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)  
 
 The goal of this paper is to transfer styles from the source image while preserving the semantic content of the target image.
