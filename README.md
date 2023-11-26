@@ -42,13 +42,13 @@ The image is updated so that both images have the same style representation. Thi
 
 # Result
 - content image
-<img src="codes/dataset/paris.jpg" width="400">
+<img src="images/content.jpeg" width="400">
 
 - style image
-<img src="codes/dataset/starry_night.jpg" width="400">
+<img src="images/style.jpeg" width="400">
 
 - result (content_weight: 8e-4, style_weight=8e-1)
-<img src="codes/result/result_3000_0.000800_0.800000.png" width="400">
+<img src="output_images\iter-3000.jpeg" width="400">
 
 # Difference Between Paper and Implementation
 - Use ADAM optimizer instead of L-BFGS
