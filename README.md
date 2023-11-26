@@ -45,7 +45,7 @@ The image is updated so that both images have the same style representation. Thi
 <img src="images/content.jpeg" width="400">
 
 - style image
-<img src="images/style.jpeg" width="400">
+<img src="images/style_image.jpeg" width="400">
 
 - result (content_weight: 8e-4, style_weight=8e-1)
 <img src="output_images\iter-3000.jpeg" width="400">
